@@ -1,4 +1,4 @@
-# Java_Rec_Binary_Search
+# Java Recursive Binary Search
 Java: Use recursion to demo Binary Search vs Linear Search through a list of phone numbers
 
 Features:
