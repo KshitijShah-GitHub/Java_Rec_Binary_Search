@@ -5,3 +5,4 @@ Features:
  - Best, Worst, Average Case for Linear and Binary Search
  - Custom String Search (with format checking)
  - Keeps track of number of steps (approximate Big-Oh)
+ - EXTREMELY detailed code comments :)
